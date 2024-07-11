@@ -4,14 +4,14 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 团队成员
-    url: people
+  - name: 模型工具
+    url: model
     weight: 10
   - name: 星源动态
     url: post
     weight: 20
-  - name: 模型工具
-    url: model
+  - name: 团队成员
+    url: people
     weight: 30
   - name: 数据开源
     url: event
