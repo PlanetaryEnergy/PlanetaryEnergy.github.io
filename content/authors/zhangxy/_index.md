@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 院士
+role: 中国工程院院士
 
 # Organizations/Affiliations
 organizations:
