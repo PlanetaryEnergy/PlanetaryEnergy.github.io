@@ -71,7 +71,7 @@ sections:
 
   - block: hero
     content:
-      title: 关于我们
+      title: 
       image:
         filename: pel.png
       text: 星源（Planetary Energy）致力于探索可再生能源发展和新型电力系统建模分析，重点推进交叉学科研究，深入分析全国和全球电力系统转型路径中的关键科学问题。
