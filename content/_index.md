@@ -5,26 +5,27 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
+  - block: slider
     content:
-      title: Planetary Energy Laboratory
-      subtitle: 'For a sustainable tomorrow'
-      text:
-      align: left
+      slides:
+      - title: Planetary Energy Laboratory
+        content: For a sustainable tomorrow 🌍
+        align: left
+        background:
+          image:
+            filename: offshore_wind.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
     design:
-      columns: '1'
-      background:
-        image: 
-          filename: offshore_wind.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
 
   - block: hero
     content:
