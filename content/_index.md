@@ -29,7 +29,7 @@ sections:
           position: right
           color: '#666'
         link:
-          icon: graduation-cap
+          icon: code-bracket
           icon_pack: fas
           text: Details
           url: ../model/eram
@@ -44,7 +44,7 @@ sections:
           position: center
           color: '#555'
         link:
-          icon: graduation-cap
+          icon: code-bracket
           icon_pack: fas
           text: Details
           url: ../model/cispo
@@ -59,7 +59,7 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: code-bracket
           icon_pack: fas
           text: Details
           url: ../model/gispo
