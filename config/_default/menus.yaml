@@ -5,7 +5,7 @@
 
 main:
   - name: 模型工具
-    url: model
+    url: models/
     weight: 10
   - name: 星源动态
     url: post
