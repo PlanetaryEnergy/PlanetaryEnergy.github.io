@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 张达
+title: 张希良
 
 # Full name (for SEO)
-first_name: Zhang
-last_name: Da
+first_name: BZhang
+last_name: Xiliang
 
 # Username (this should match the folder name)
 authors:
-  - c_zhangda
+  - zhangxl
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 副教授
+role: 教授
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,9 @@ organizations:
 bio: 
 
 interests:
-  - Economic and environmental analyses of China's energy and climate policies
+  - 低碳能源转型
+  - 气候变化经济学
+  - 气候变化政策与机制设计
 
 education:
   courses:
@@ -46,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhangda@tsinghua.edu.cn'
+    link: 'mailto:zhang_xl@tsinghua.edu.cn'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -57,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'zhangda@tsinghua.edu.cn'
+email: 'zhang_xl@tsinghua.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -66,6 +68,14 @@ user_groups:
 
 ---
 
-清华大学能源环境经济研究所副教授、博士生导师，兼任清华碳中和研究院气候治理与碳金融中心副主任、清华三峡气候与低碳中心副主任、清华四川院碳中和信息管理技术研究所所长。
+清华大学系统工程专业博士，清华大学核能与新能源技术研究院教授，清华大学能源环境经济研究所所长，清华大学碳中和研究院气候治理与碳金融中心首席科学家。
 
-曾获国家海外高层次青年人才资助，目前主持多项受国家自然科学基金以及国家发改委、科技部、财政部、生态环境部、国资委、国家能源局等部委和世界银行、国际能源署等国际机构委托的咨询项目。以第一作者或通讯作者在Nature、Cell、Lancet子刊等重要期刊发表多篇论文。
+主要社会兼职包括国家气候变化专家委员会委员、中国环境科学学会碳排放交易专业委员会主任委员、中国能源研究会常务理事兼能源系统工程专业委员会主任等。
+
+自2015年开始担任全国碳市场总体设计专家组负责人，先后主持应对气候变化领域的国家自然科学基金重大项目、国家重点研发计划项目和国家社科基金重大项目。
+
+在Nature Energy、Nature Climate Change、《管理世界》等国内外学术期刊上发表论文200余篇。
+
+曾担任联合国气候变化专门委员会（IPCC）第四次和第五次《气候变化评估报告》的主要作者（Lead Author）。
+
+2020年获得教育部第八届高等学校优秀科学研究成果奖（人文社会科学）一等奖。

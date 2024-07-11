@@ -3,12 +3,12 @@
 title: 张小曳
 
 # Full name (for SEO)
-first_name: Zhang
+first_name: AZhang
 last_name: Xiaoye
 
 # Username (this should match the folder name)
 authors:
-  - a_zhangxy
+  - zhangxy
 
 # Is this the primary user of the site?
 superuser: false
