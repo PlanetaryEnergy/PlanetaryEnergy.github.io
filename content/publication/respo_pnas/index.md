@@ -5,9 +5,9 @@ authors:
 - Ziheng Zhu
 - Shi Chen
 - et al.
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 date: "2024-02-026T00:00:00Z"
 doi: "https://doi.org/10.1073/pnas.2306517121"
 

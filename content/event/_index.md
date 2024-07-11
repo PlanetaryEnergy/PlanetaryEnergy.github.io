@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: 数据开源
 
 # Listing view
 view: compact

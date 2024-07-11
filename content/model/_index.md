@@ -1,5 +1,5 @@
 ---
-title: Models
+title: 模型工具
 
 # Listing view
 view: compact
