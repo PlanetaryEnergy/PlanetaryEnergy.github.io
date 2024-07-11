@@ -75,7 +75,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: 最新动态
       subtitle:
       text:
       count: 3
