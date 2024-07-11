@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Principal Investigators
           - 学术导师
-          - Grad Students
+          - 团队成员
           - Administration
           - Visitors
           - Alumni
