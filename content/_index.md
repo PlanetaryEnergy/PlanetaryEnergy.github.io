@@ -94,7 +94,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Publications
+      title: 最新成果
       text: ""
       count: 5
       filters:
