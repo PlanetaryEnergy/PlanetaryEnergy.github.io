@@ -67,15 +67,14 @@ sections:
       title:
       image:
         filename: pel.png
-      text: |
-        星源！清华！
+      text: 星源！清华！
   
   - block: collection
     content:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -91,7 +90,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Publications
       text: ""
       count: 5
       filters:
