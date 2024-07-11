@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} PEL. This work is licensed under {license}'
+    notice: '© {year} Planetary Energy Laboratory All Reserved.'
     license:
       enable: false
       allow_derivatives: false
