@@ -18,7 +18,6 @@ sections:
               brightness: 0.8
           position: center
           color: '#666'
-    slides:
       - title: Energy-Resource Assessment Model (E-RAM)
         content: The E-RAM model assesses various resource potential related to energy.
         align: left
@@ -59,9 +58,9 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 4000
 
   - block: hero
     content:
