@@ -10,7 +10,7 @@ sections:
       slides:
       - title: Planetary Energy Laboratory
         content: For a sustainable tomorrow 🌍
-        align: left
+        align: bottom
         background:
           image:
             filename: offshore_wind.jpg
