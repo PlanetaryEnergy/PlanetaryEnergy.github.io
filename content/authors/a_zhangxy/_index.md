@@ -8,7 +8,7 @@ last_name: Xiaoye
 
 # Username (this should match the folder name)
 authors:
-  - zhangxy
+  - a_zhangxy
 
 # Is this the primary user of the site?
 superuser: false

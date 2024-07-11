@@ -8,7 +8,7 @@ last_name: Xiliang
 
 # Username (this should match the folder name)
 authors:
-  - zhangxl
+  - b_zhangxl
 
 # Is this the primary user of the site?
 superuser: false
