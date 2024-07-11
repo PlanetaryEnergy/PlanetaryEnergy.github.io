@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张希量
+title: 张希良
 
 # Full name (for SEO)
 first_name: Zhang
