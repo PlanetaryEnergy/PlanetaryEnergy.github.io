@@ -14,7 +14,7 @@ main:
     url: model
     weight: 300
   - name: 数据开源
-    url: event
+    url: opendata
     weight: 400
   - name: 学术发表
     url: publication
