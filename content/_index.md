@@ -9,14 +9,14 @@ sections:
     content:
       slides:
       - title: Planetary Energy Laboratory
-        content: For a sustainable tomorrow 🌍
+        content: Optimization for a sustainable tomorrow 🌍
         align: left
         background:
           image:
             filename: offshore_wind.jpg
             filters:
               brightness: 0.8
-          position: bottom
+          position: center
           color: '#666'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
