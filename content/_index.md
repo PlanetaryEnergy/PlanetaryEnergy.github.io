@@ -7,14 +7,14 @@ type: landing
 sections:
   - block: markdown
     content:
-      title:
-      subtitle: ''
+      title: Planetary Energy Laboratory
+      subtitle: 'For a sustainable tomorrow'
       text:
     design:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: offshore_wind.jpg
           filters:
             brightness: 1
           parallax: false
