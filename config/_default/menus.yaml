@@ -10,15 +10,18 @@ main:
   - name: 星源动态
     url: post
     weight: 200
+  - name: 研究领域
+    url: field
+    weight: 300
   - name: 模型工具
     url: model
-    weight: 300
+    weight: 400
   - name: 数据开源
     url: opendata
-    weight: 400
+    weight: 500
   - name: 学术发表
     url: publication
-    weight: 500
+    weight: 600
   - name: 联系我们
     url: contact
-    weight: 600
+    weight: 700

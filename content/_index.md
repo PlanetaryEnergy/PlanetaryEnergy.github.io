@@ -18,6 +18,9 @@ sections:
               brightness: 0.8
           position: center
           color: '#666'
+        link:
+          text: Research Fields
+          url: ../field
       - title: Energy-Resource Assessment Model (E-RAM)
         content: The E-RAM model assesses various resource potential related to energy.
         align: left
