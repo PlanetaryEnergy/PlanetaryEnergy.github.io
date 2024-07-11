@@ -29,8 +29,6 @@ sections:
           position: right
           color: '#666'
         link:
-          icon: code-bracket
-          icon_pack: fas
           text: Details
           url: ../model/eram
       - title: China Integrated Sustainable Power-system Optimization Model (CISPO)
@@ -44,8 +42,6 @@ sections:
           position: center
           color: '#555'
         link:
-          icon: code-bracket
-          icon_pack: fas
           text: Details
           url: ../model/cispo
       - title: Global Integrated Sustainable Power-system Optimization Model (GISPO)
@@ -59,8 +55,6 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: code-bracket
-          icon_pack: fas
           text: Details
           url: ../model/gispo
     design:
@@ -74,7 +68,7 @@ sections:
 
   - block: hero
     content:
-      title:
+      title: 关于我们
       image:
         filename: pel.png
       text: 星源！清华！
