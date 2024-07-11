@@ -10,6 +10,7 @@ sections:
       title: Planetary Energy Laboratory
       subtitle: 'For a sustainable tomorrow'
       text:
+      align: left
     design:
       columns: '1'
       background:
