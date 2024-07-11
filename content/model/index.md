@@ -9,28 +9,28 @@ sections:
     content:
       slides:
       - title: Energy-Resource Assessment Model (E-RAM)
-        content: Take a look at what we're working on...
-        align: center
+        content: The E-RAM model assesses various resource potential related to energy.
+        align: left
         background:
           image:
             filename: eram.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
       - title: China Integrated Sustainable Power-system Optimization Model (CISPO)
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: The CISPO model is a long-term power-system planning model for China.
         align: left
         background:
           image:
             filename: cispo.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: center
           color: '#555'
       - title: Global Integrated Sustainable Power-system Optimization Model (GISPO)
-        content: 'Just opened last month!'
-        align: right
+        content: The GISPO model is a long-term power-system planning model for the whole world.
+        align: left
         background:
           image:
             filename: gispo.jpg
