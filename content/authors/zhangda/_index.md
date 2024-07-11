@@ -3,8 +3,8 @@
 title: 张达
 
 # Full name (for SEO)
-first_name: 张
-last_name: 达
+first_name: Zhang
+last_name: Da
 
 # Username (this should match the folder name)
 authors:
@@ -19,7 +19,7 @@ role: 副教授
 # Organizations/Affiliations
 organizations:
   - name: 清华大学能源环境经济研究所
-    url: ''
+    url: 'http://www.3e.tsinghua.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
