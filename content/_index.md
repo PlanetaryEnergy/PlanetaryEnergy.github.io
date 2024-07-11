@@ -28,6 +28,11 @@ sections:
               brightness: 0.5
           position: right
           color: '#666'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Details
+          url: ../model/eram
       - title: China Integrated Sustainable Power-system Optimization Model (CISPO)
         content: The CISPO model is a long-term power-system planning model for China.
         align: left
@@ -38,6 +43,11 @@ sections:
               brightness: 0.5
           position: center
           color: '#555'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Details
+          url: ../model/cispo
       - title: Global Integrated Sustainable Power-system Optimization Model (GISPO)
         content: The GISPO model is a long-term power-system planning model for the whole world.
         align: left
@@ -51,8 +61,8 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Details
+          url: ../model/gispo
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
