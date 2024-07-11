@@ -7,56 +7,27 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: 联系我们
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        We welcome inquiries about the lab. If you are interested in joining the lab, please consult the Opportunities page as well as info on how to Study @ UCSD. Please identify interests within ongoing research areas and include a CV or resume when contacting Prof. Davidson: mrdavidson AT ucsd.edu.
+      email: planetaryenergy@outlook.com
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+        latitude: '40.003423'
+        longitude: '116.341172'
     
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '1'
 
   - block: markdown
     content:
-      title:
+      title: 
       subtitle: ''
       text:
     design:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: pel.png
           filters:
             brightness: 1
           parallax: false
