@@ -4,7 +4,7 @@ title: 张达
 
 # Full name (for SEO)
 first_name: CZhang
-last_name: Da
+last_name: CDa
 
 # Username (this should match the folder name)
 authors:

@@ -4,7 +4,7 @@ title: 张希良
 
 # Full name (for SEO)
 first_name: BZhang
-last_name: Xiliang
+last_name: BXiliang
 
 # Username (this should match the folder name)
 authors:

@@ -4,7 +4,7 @@ title: 张小曳
 
 # Full name (for SEO)
 first_name: AZhang
-last_name: Xiaoye
+last_name: AXiaoye
 
 # Username (this should match the folder name)
 authors:
