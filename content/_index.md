@@ -67,7 +67,7 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 4000
+      interval: 3000
 
   - block: hero
     content:
@@ -113,8 +113,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}},
         {{% cta cta_link="./contact/" cta_text="Join the team →" %}}
     design:
-      columns: '2'
+      columns: '1'
 ---
