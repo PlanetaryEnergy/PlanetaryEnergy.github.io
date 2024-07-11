@@ -33,7 +33,7 @@ sections:
           color: '#666'
         link:
           text: Details
-          url: ../model/eram
+          url: ./model/eram
       - title: China Integrated Sustainable Power-system Optimization Model (CISPO)
         content: The CISPO model is a long-term power-system planning model for China.
         align: left
@@ -46,7 +46,7 @@ sections:
           color: '#555'
         link:
           text: Details
-          url: ../model/cispo
+          url: ./model/cispo
       - title: Global Integrated Sustainable Power-system Optimization Model (GISPO)
         content: The GISPO model is a long-term power-system planning model for the whole world.
         align: left
@@ -59,7 +59,7 @@ sections:
           color: '#333'
         link:
           text: Details
-          url: ../model/gispo
+          url: ./model/gispo
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -74,7 +74,7 @@ sections:
       title: 关于我们
       image:
         filename: pel.png
-      text: 星源！清华！
+      text: 星源（Planetary Energy）致力于探索可再生能源发展和新型电力系统建模分析，重点推进交叉学科研究，深入分析全国和全球电力系统转型路径中的关键科学问题。
   
   - block: collection
     content:
@@ -114,6 +114,15 @@ sections:
       subtitle:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
+  
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./contact/" cta_text="Join the team →" %}}
     design:
       columns: '1'
 ---
