@@ -54,8 +54,6 @@ social:
     icon_pack: ai
     link: files/Da_Zhang_CV.pdf
   
-
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
