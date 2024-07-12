@@ -50,9 +50,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=_MNaBVEAAAAJ
- - icon: cv
-   icon_pack: ai
-   link: files/Da_Zhang_CV.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/Da_Zhang_CV.pdf
   
 
 
