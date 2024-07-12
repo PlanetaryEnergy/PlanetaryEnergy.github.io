@@ -2,7 +2,7 @@
 title: 模型工具
 
 # Listing view
-view: compact
+view: card
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
