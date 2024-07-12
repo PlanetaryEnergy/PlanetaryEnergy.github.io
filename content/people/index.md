@@ -4,11 +4,10 @@ date: 2022-10-24
 
 type: landing
 
-banner:
-  caption: ''
-  image: 'team_banner.jpg'
-
 sections:
+  - banner:
+    caption: ''
+    image: 'team_banner.jpg'
   - block: people
     content:
       title: 团队成员
