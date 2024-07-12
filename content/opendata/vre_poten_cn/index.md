@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: 中国可再生能源装机潜力数据
 
 event: Wowchemy Conference
 event_url: https://example.org
