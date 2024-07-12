@@ -4,6 +4,10 @@ date: 2022-10-24
 
 type: landing
 
+banner:
+  caption: ''
+  image: 'team_banner.jpg'
+
 sections:
   - block: people
     content:
@@ -11,7 +15,6 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigators
           - 学术导师
           - 团队成员
           - Administration
