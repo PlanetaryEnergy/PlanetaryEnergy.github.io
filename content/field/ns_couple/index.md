@@ -1,6 +1,6 @@
 ---
-title: 高时空分辨率电力规划模型构建
-date: 2023-10-29
+title: 自然电力系统综合耦合建模
+date: 2024-10-29
 external_link:
 tags:
   - Research Fields
