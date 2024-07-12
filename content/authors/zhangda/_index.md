@@ -27,17 +27,17 @@ bio:
 interests:
   - Economic and environmental analyses of China's energy and climate policies
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+#      institution: Stanford University
+#      year: 2012
+#    - course: MEng in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,7 +49,7 @@ social:
     link: 'mailto:zhangda@tsinghua.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=zh-CN&user=_MNaBVEAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'zhangda@tsinghua.edu.cn'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,3 +69,5 @@ user_groups:
 清华大学能源环境经济研究所副教授、博士生导师，兼任清华碳中和研究院气候治理与碳金融中心副主任、清华三峡气候与低碳中心副主任、清华四川院碳中和信息管理技术研究所所长。
 
 曾获国家海外高层次青年人才资助，目前主持多项受国家自然科学基金以及国家发改委、科技部、财政部、生态环境部、国资委、国家能源局等部委和世界银行、国际能源署等国际机构委托的咨询项目。以第一作者或通讯作者在Nature、Cell、Lancet子刊等重要期刊发表多篇论文。
+
+个人主页：http://www.energyda.cn

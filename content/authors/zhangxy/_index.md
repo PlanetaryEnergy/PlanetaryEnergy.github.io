@@ -19,7 +19,7 @@ role: 中国工程院院士
 # Organizations/Affiliations
 organizations:
   - name: 中国气象科学研究院
-    url: ''
+    url: 'https://www.camscma.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -27,17 +27,11 @@ bio:
 interests:
   - 大气物理学与大气环境
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+#      institution: 南京大学
+#      year: 1995
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,7 +43,7 @@ social:
     link: 'mailto:xiaoye@cma.gov.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=zh-CN&user=cvS1dt4AAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
