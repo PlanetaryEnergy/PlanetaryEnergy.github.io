@@ -7,7 +7,7 @@ type: landing
 sections:
   - banner:
     caption: ''
-    image: 'team_banner.jpg'
+    image: '.../media/team_banner.jpg'
   - block: people
     content:
       title: 团队成员
